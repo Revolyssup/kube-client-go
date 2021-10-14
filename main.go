@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	op "github.com/Revolyssup/kube-client-go/pkg/api/goglot/v1alpha1"
+	op "github.com/Revolyssup/kube-client-go/pkg/api/goglot.dev/v1alpha1"
 )
 
 func main() {
